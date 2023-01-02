@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.16.0)
 
 project(SFML_ProjectTemplate)
 
-set(CMake_BUILD_TYPE "Debug")
+set(CMAKE_BUILD_TYPE "Debug")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/build/bin)
 
 set(SFML_DIR ${PROJECT_SOURCE_DIR}/3rdparty/SFML/lib/cmake/SFML)
