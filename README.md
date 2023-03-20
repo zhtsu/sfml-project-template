@@ -1,5 +1,5 @@
 # SFML Project Template
-This is a SFML project template what using CMake + MinGW.
+This is a SFML project template with CMake & MinGW.
 
 ## Environment
 - Windows 10 or later
